@@ -16,7 +16,7 @@ const About = () => {
       pursue a Bachelor of Science (BS) in Public Health. <br/>
       In parallel with my academic journey, I enrolled in the Governors Artificial Intelligence 
       course, where I gained knowledge in various programming languages such as HTML, CSS, 
-      TypeScript, and more. While my primary focus has been in the medical field, 
+      TypeScript, Next.js and more. While my primary focus has been in the medical field, 
       I have thoroughly enjoyed exploring new areas of learning, especially in programming, 
       which has provided me with valuable skills and a unique perspective. 
      </p>
